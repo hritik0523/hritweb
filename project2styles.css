@@ -1,0 +1,62 @@
+h1{
+    color: #13b8e1;
+    border: 3px solid black;
+    font-style: bold;
+    font-weight: 900;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+
+}
+.box1{
+    border: 2px solid black;
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    height: 100px;
+    background-color: rgba(72, 66, 66, 0.342);
+    border: none;
+        
+    }
+    
+    
+
+.box2{
+    border: 2px solid black;
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    height: 100px;
+    background-color: rgba(72, 66, 66, 0.342);
+    border: none;
+    
+    
+    
+    
+}
+.box3{
+    border:2px solid black ;
+    width: 25%;
+    text-align: center;
+    height: 100px;
+    background-color: rgba(72, 66, 66, 0.342);
+    border: none;
+}
+.box4{
+    border:2px solid black ;
+    width: 25%;
+    text-align: center;
+    height: 100px;
+    background-color: rgba(72, 66, 66, 0.342);
+    border: none;
+    
+}
+
+@media all and (max-width:100px) and (min-width:300px)
+
+
+
+
+    
+
+

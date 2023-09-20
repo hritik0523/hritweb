@@ -1,0 +1,13 @@
+body{
+    text-align: justify;
+
+    background-color:yellow;
+}
+h1{
+    font-weight: 700;
+    text-shadow: 3px;
+    background-image:url(https://cdn.wallpapersafari.com/34/16/iWG2r1.jpg);
+}
+p{
+    color: rgba(red, green, blue, alpha);
+}
